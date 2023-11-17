@@ -1,0 +1,12 @@
+sudo apt update ----- Instalador de paquetes
+sudo apt install grafana ---- instalador de grafana
+sudo systemctl start grafana-server ----- se prende el servicio
+sudo systemctl enable grafana-server ------ se activa el servicio
+
+
+Se ingresa htpp//:192.168.20.2:3000
+
+Se crea los dashboards
+
+Se configura los graficos
+
